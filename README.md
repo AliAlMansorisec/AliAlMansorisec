@@ -93,16 +93,16 @@ Environment  : Linux / Bash
 
 ## 🛰️ Connect With Me
 
-- 🐙 GitHub: https://github.com/AliAlMansorisec  
+- 🐙 GitHub: <a href="https://github.com/AliAlMansorisec">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a> 
 - 🐦 X (Twitter): https://x.com/AliAlMansoriSec  
 - 🌐 Website: https://cyber-thought.vercel.app/ar  
 - 📧 Email: your-email@example.com  
 
 <p align="center">
 
-<a href="https://github.com/AliAlMansorisec">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
 
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
