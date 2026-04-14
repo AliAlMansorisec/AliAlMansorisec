@@ -44,7 +44,7 @@ Mission     : Discover vulnerabilities before attackers do
 ---
 
 
-# 🧰 Security Tools
+# Skils & Tools
 
 <p align="center">
 
