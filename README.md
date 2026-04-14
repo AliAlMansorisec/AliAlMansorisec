@@ -96,19 +96,19 @@ Environment  : Linux / Bash
 
 <p align="center">
 <a href="https://github.com/AliAlMansorisec">
-<img src="https://img.shields.io/badge/GitHub-ALI%20AL%20MANSORI-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-ALI%20AL%30MANSORI-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <br><br>
 <a href="https://x.com/AliAlMansoriSec">
-<img src="https://img.shields.io/badge/X%20(Twitter)-Security%20Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X%30(Twitter)-Security%20Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <br><br>
 <a href="https://cyber-thought.vercel.app/ar">
-<img src="https://img.shields.io/badge/Portfolio-Official%20Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Official%30Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 <br><br>
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%30Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
