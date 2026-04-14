@@ -57,11 +57,27 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-🚀 PROJECTS // CYBER OPERATION
-
+# 🚀 PROJECTS 
 🧬 Web Pentest Methodology
 <p align="center"> <a href="https://github.com/AliAlMansorisec/Web-Pentest-Methodology"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAlMansorisec&repo=Web-Pentest-Methodology&theme=tokyonight&hide_border=true" /> </a> </p>
+📌 ماذا يفعل هذا المشروع؟ (شرح بسيط جدًا 👇)
 
+هذا المشروع هو طريقة منظمة لاختبار أمان المواقع بشكل احترافي.
+
+بمعنى أبسط:
+
+🧠 بدل ما أختبر الموقع بشكل عشوائي
+أتبّع خطوات مرتبة مثل خطة عمل احترافية
+
+⚔️ خطوات العمل داخل المشروع:
+🔍 Recon (جمع المعلومات)
+معرفة كل شيء عن الموقع قبل الاختبار
+🧭 Enumeration (فهم النظام)
+اكتشاف الصفحات، الـ APIs، والمدخلات
+💥 Exploitation (اختبار الثغرات)
+تجربة هل يوجد أخطاء أمنية فعلية
+📄 Reporting (التقرير)
+توثيق الثغرة بشكل احترافي للشركات
 ---
 
 ## ⚙️ Security Automation Tools
