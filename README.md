@@ -81,20 +81,37 @@ Mission     : Discover vulnerabilities before attackers do
 
 <div align="center">
 
+  <!-- X (Twitter) -->
   <a href="https://x.com/AliAlMansoriSec">
     <img src="https://img.shields.io/badge/X%20(Twitter)-Security%20Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  &nbsp;&nbsp;
 
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+  <!-- GitHub -->
   <a href="https://github.com/AliAlMansorisec">
     <img src="https://img.shields.io/badge/GitHub-Ali%20Al%20Mansori-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <br><br>
+
+  <!-- Portfolio Website -->
+  <a href="https://cyber-thought.vercel.app/ar">
+    <img src="https://img.shields.io/badge/Portfolio-Official%20Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- Personal Profile Website -->
+  <a href="https://your-personal-site.com">
+    <img src="https://img.shields.io/badge/Profile%20Site-Personal%20Hub-0A0A0A?style=for-the-badge&logo=aboutdotme&logoColor=white"/>
+  </a>
+
+  <br><br>
+
+  <!-- Email -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
 </div>
