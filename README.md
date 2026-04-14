@@ -72,8 +72,8 @@ Mission     : Discover vulnerabilities before attackers do
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-almansoori&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C" alt="Ali's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-almansoori&theme=dark&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C" alt="Ali's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=dark&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
