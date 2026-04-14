@@ -1,9 +1,10 @@
 <div align="center">
 
-<!-- ⚡ CINEMATIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:ff0000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&fontAlignY=35&animation=fadeIn" />
+<!-- 💀 3D CYBER BANNER (NEW ELITE STYLE) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1a0000,50:ff0000,75:1a0000,100:000000&height=230&section=header&text=ALI%20AL-MANSORI&fontSize=48&fontColor=ff0000&fontAlignY=35&desc=RED%20TEAM%20OPERATOR%20%7C%20BUG%20BOUNTY%20HUNTER%20%7C%20MOBILE%20%26%20WEB%20PENTESTER&descSize=16&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Web+Pentester+%7C+Android+Security+Researcher+%7C+Bug+Bounty+Hunter;Red+Team+Mindset+%7C+Exploit+Research+%7C+API+Security;Breaking+Systems+to+Understand+Them+Deeply" />
+<!-- ⚡ CLEAN STATUS LINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Web+Pentesting+%7C+Android+Security+Research;Bug+Bounty+Hunting+%7C+API+Security+Testing;Exploit+Research+%7C+Vulnerability+Analysis;Think+Like+an+Attacker+%7C+Act+Like+a+Researcher" />
 
 </div>
 
