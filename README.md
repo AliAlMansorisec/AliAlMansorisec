@@ -27,14 +27,23 @@
 
 ---
 
-# 🌐 ABOUT Me
+## 🌐 ABOUT Me
 
-```txt
-Name        : Ali Al-Mansori
-Role        : Security Researcher / Offensive Security Analyst
-Focus       : Web • Android • API Security • Bug Bounty
-Style       : Minimal • Precise • Analytical
-Mission     : Discover vulnerabilities before attackers do
+<table align="right" border="0" style="border-collapse: collapse;">
+  <tr>
+    <td align="right" width="100%">
+      <pre style="background-color:#0D1117; color:#DC143C; font-family:'Courier New'; border:1px solid #3d1c1c; padding:10px;">
+┌─────────────────────────────────────────────────┐
+│  <span style="color:#FFFFFF;">OPERATIVE ID:</span> <span style="color:#DC143C;">Ali Almansoori</span>                  │
+│  <span style="color:#FFFFFF;">DEPLOYMENT:</span> <span style="color:#DC143C;">Web Application Penetration Testing (WAPT)</span> │
+│  <span style="color:#FFFFFF;">SECONDARY DOMAIN:</span> <span style="color:#DC143C;">Android Reverse Engineering</span>      │
+│  <span style="color:#FFFFFF;">HUNTING MODE:</span> <span style="color:#DC143C;">Bug Bounty Hunter [VDP/BBP]</span>        │
+│  <span style="color:#FFFFFF;">SIGNATURE:</span> <span style="color:#DC143C;">No traces left in public logs.</span>        │
+└─────────────────────────────────────────────────┘
+      </pre>
+    </td>
+  </tr>
+</table>
 ````
 # Portfolio
 
