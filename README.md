@@ -68,7 +68,7 @@ Mission     : Discover vulnerabilities before attackers do
 
 | #️⃣    | 🧬 Project                     | 📌 Description                                                                                  | ⚙️ Type                     | 🔗 Link                                                                      |
 | ------ | ------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------- |
-| **01** | 🧭 **Web Pentest Methodology** | Professional workflow for testing web application security from Recon to Reporting              | 🛡️ Web Security Framework  | https://github.com/AliAlMansorisec/Web-Pentest-Methodology                   |
+| **01** | 🧭 [**Web Pentest Methodology**](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)| Professional workflow for testing web application security from Recon to Reporting              | 🛡️ Web Security Framework  | https://github.com/AliAlMansorisec/Web-Pentest-Methodology                   |
 | **02** | ⚙️ **WPT-Workflow-Manager**    | Automation tool for managing pentest workflow, project structure, and reconnaissance operations | 🤖 Security Automation Tool | https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts |
 
 ---
