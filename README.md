@@ -89,48 +89,22 @@ Environment  : Linux / Bash
 ```
 ---
 
----
-
 ## 🛰️ Connect With Me
 
 - 🐙 GitHub: <a href="https://github.com/AliAlMansorisec">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a> 
-- 🐦 X (Twitter): https://x.com/AliAlMansoriSec  
-- 🌐 Website: https://cyber-thought.vercel.app/ar  
-- 📧 Email: your-email@example.com  
-
-<p align="center">
-
-
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/AliAlMansorisec">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://x.com/AliAlMansoriSec">
+- 🐦 X (Twitter): <a href="https://x.com/AliAlMansoriSec">
 <img src="https://img.shields.io/badge/X%20(Twitter)-FF0000?style=for-the-badge&logo=x"/>
 </a>
-
-<a href="https://cyber-thought.vercel.app/ar">
+- 🌐 Website: <a href="https://cyber-thought.vercel.app/ar">
 <img src="https://img.shields.io/badge/Portfolio%20Website-1a1a1a?style=for-the-badge&logo=firefox"/>
-</a>
-
+</a> 
+- 📧 Email: 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> 
 
-</p>
-
----
 
 <div align="center">
 
