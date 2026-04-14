@@ -91,7 +91,24 @@ Environment  : Linux / Bash
 
 ---
 
-# 🌐 CYBER FOOTPRINT
+## 🛰️ Connect With Me
+
+- 🐙 GitHub: https://github.com/AliAlMansorisec  
+- 🐦 X (Twitter): https://x.com/AliAlMansoriSec  
+- 🌐 Website: https://cyber-thought.vercel.app/ar  
+- 📧 Email: your-email@example.com  
+
+<p align="center">
+
+<a href="https://github.com/AliAlMansorisec">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 <p align="center">
 
@@ -116,8 +133,6 @@ Environment  : Linux / Bash
 ---
 
 <div align="center">
-
-## “The quieter you become, the more you understand.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=160&section=footer"/>
 
