@@ -4,16 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
 
-<br>
-
-<!-- 🧭 PROFESSIONAL TITLE -->
-
-<h3 align="center">
-Offensive Security Engineer • Web & Android Penetration Tester • Bug Bounty Hunter
-</h3>
-
-<br>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Web%20Pentesting-FF0000?style=flat-square"/>
