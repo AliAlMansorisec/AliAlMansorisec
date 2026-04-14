@@ -1,25 +1,3 @@
----
-
-<div align="center">
-
-<!-- 🛰️ CYBER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
-
-<br>
-
-<!-- 🧠 PROFILE CARD -->
-
-
-🛡️ Name  : Ali Al-Mansori  
-🎯 Role  : Security Researcher / Offensive Security Analyst  
-⚡ Focus : Web • Android • API Security • Bug Bounty  
-
-🧠 About : Cybersecurity researcher specializing in web and mobile penetration testing.  
-          Focused on vulnerability discovery, system analysis, and security automation development.
-
-
-<br>
-
 <!-- 💀 BADGES -->
 <p align="center">
 
