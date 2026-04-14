@@ -75,30 +75,26 @@ Mission     : Discover vulnerabilities before attackers do
 
 ### Professional Contact & Cyber Presence
 
-<p align="left">
-<a href="https://github.com/AliAlMansorisec">
-<img src="https://img.shields.io/badge/GitHub-ALI%50AL%50MANSORI-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<br><br>
-<a href="https://x.com/AliAlMansoriSec">
-<img src="https://img.shields.io/badge/X%50(Twitter)-Security%50Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<br><br>
-<a href="https://cyber-thought.vercel.app/ar">
-<img src="https://img.shields.io/badge/Portfolio-Official%50Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-<br><br>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact%50Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+
+<p align="right">
+  <a href="https://github.com/ali-almansoori">
+    <img src="https://img.shields.io/badge/GitHub-ali--almansoori-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/ali_almansoori">
+    <img src="https://img.shields.io/badge/X_(Twitter)-%40ali__almansoori-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://facebook.com/ali.almansoori.sec">
+    <img src="https://img.shields.io/badge/Facebook-علي_المنصوري-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <br>
+  <a href="https://your-portfolio-site.com">
+    <img src="https://img.shields.io/badge/🌐_الموقع_الشخصي-Portfolio-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:me@ali-almansoori.com">
+    <img src="https://img.shields.io/badge/📧_البريد_الإلكتروني-ali@almansoori.com-8B0000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-<div dir="auto">
-  <a href="https://github.com/noorjsdivs/noorjsdivs/blob/main/README.md"><img src="https://camo.githubusercontent.com/6690f404cb91efe3927127c7dae40ed4f401c7d6fbe3ad3635b7ad9ba0b370c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="YouTube" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.linkedin.com/in/noor-mohammad-ab2245193/" rel="nofollow"><img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://www.facebook.com/Noorlalu143/" rel="nofollow"><img src="https://camo.githubusercontent.com/f7b636c6baf376b71b9b2aed4073a19af3054f437e828d248c1795f664015802/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a href="mailto:noor.jsdivs@gmail.com"><img src="https://camo.githubusercontent.com/ed4774a0f4207faa0e5060918ba58b31bff95c23cc2311b5d282c1054c7b207a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652ff09f93a75f456d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465" alt="Email" data-canonical-src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://github.com/"><img src="https://camo.githubusercontent.com/4fcd516e2fde608afc9ddd1330de295d23981c27a9b9d695f8abe51f70a1efc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
-</div>
+
 
 
 ---
