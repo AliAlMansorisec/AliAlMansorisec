@@ -104,9 +104,22 @@ Philosophy  : "Know the system better than its creator"
 | Mobile Security Toolkit   | Android testing utilities         | 🟡 Beta   |
 | Bug Bounty Recon Suite    | Recon + exploitation tools        | 🟢 Active |
 
+
+## 🚀 Projects
+
+### 🧬 Web Pentest Methodology
+🔗 https://github.com/AliAlMansorisec/Web-Pentest-Methodology  
+A structured workflow for professional web penetration testing:
+Recon → Enumeration → Exploitation → Reporting
+
 ---
 
-# 📡 CONNECT // SECURE CHANNELS
+## 🛰️ Connect With Me
+
+- 🐙 GitHub: https://github.com/AliAlMansorisec  
+- 🐦 X (Twitter): https://x.com/AliAlMansoriSec  
+- 🌐 Website: https://cyber-thought.vercel.app/ar  
+- 📧 Email: your-email@example.com  
 
 <p align="center">
 
