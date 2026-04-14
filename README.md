@@ -57,18 +57,10 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-# 🚀 PROJECTS // OPERATIONS
+🚀 PROJECTS // CYBER OPERATION
 
-## 🧬 Web Pentest Methodology
-
-<p align="center">
-<a href="https://github.com/AliAlMansorisec/Web-Pentest-Methodology">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAlMansorisec&repo=Web-Pentest-Methodology&theme=tokyonight"/>
-</a>
-</p>
-
-📌 Structured penetration testing workflow
-Recon → Enumeration → Exploitation → Reporting
+🧬 Web Pentest Methodology
+<p align="center"> <a href="https://github.com/AliAlMansorisec/Web-Pentest-Methodology"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAlMansorisec&repo=Web-Pentest-Methodology&theme=tokyonight&hide_border=true" /> </a> </p>
 
 ---
 
