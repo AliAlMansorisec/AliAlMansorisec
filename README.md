@@ -89,31 +89,6 @@ Environment  : Linux / Bash
 ```
 ---
 
-## 🎯 Use Cases
-
-* 🐞 Bug Bounty Engagements
-* 🛡️ Web Application Security Testing
-* 🔴 Red Team Operations
-* 🧪 Security Research & Practice
-* 🏢 Client Security Assessments
-
-
----
-
----
-
-## 🧠 Cyber Thought Platform
-
-<p align="center">
-
-<a href="https://cyber-thought.vercel.app/ar">
-<img src="https://img.shields.io/badge/Cyber%20Thought%20Platform-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
-📌 Security awareness + offensive research + learning hub
-
 ---
 
 # 🌐 CYBER FOOTPRINT
@@ -156,7 +131,5 @@ Environment  : Linux / Bash
 
 ---
 
-
----
 
 ```
