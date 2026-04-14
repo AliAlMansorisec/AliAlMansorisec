@@ -115,21 +115,13 @@ Environment  : Linux / Bash
 
 ---
 
-# 📊 LIVE CYBER METRICS
+<div align="center">
 
-<p align="center">
+## “The quieter you become, the more you understand.”
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+</div>
 
 
 ```
