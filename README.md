@@ -3,11 +3,15 @@
 <!-- 🛰️ NAME BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
 
-<!-- ⚡ ROLE BADGES -->
-<img src="https://img.shields.io/badge/Web%20Pentester-FF0000?style=for-the-badge&logo=bugatti&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Security-111111?style=for-the-badge&logo=android&logoColor=3DDC84"/>
-<img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Red%20Team-1a0000?style=for-the-badge&logo=target&logoColor=FF0000"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Pentesting-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android%20Pentesting-black?style=flat-square&logo=android"/>
+<img src="https://img.shields.io/badge/API%20Security-darkred?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-black?style=flat-square&logo=bugcrowd"/>
+<img src="https://img.shields.io/badge/Automation-grey?style=flat-square&logo=python"/>
+
+</p>
 
 </div>
 
@@ -40,17 +44,8 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-# ⚔️ CORE EXPERTISE
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Web%20Pentesting-FF0000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Android%20Security-black?style=flat-square&logo=android"/>
-<img src="https://img.shields.io/badge/API%20Security-darkred?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bug%20Bounty-black?style=flat-square&logo=bugcrowd"/>
-<img src="https://img.shields.io/badge/Automation-grey?style=flat-square&logo=python"/>
-
-</p>
 
 ---
 
