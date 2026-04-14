@@ -1,135 +1,132 @@
 <div align="center">
 
-<!-- 🛰️ FIXED ENTERPRISE HEADER (WORKING + CLEAN) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=230&section=header&text=THREAT%20INTELLIGENCE%20NODE&fontSize=32&fontColor=FF0000&fontAlignY=38&desc=ALI%20AL-MANSORI%20%7C%20SECURITY%20RESEARCH%20UNIT&descSize=14&descAlignY=60" />
+<!-- ⚡ ULTRA BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=35" />
 
-<!-- ⚡ OPERATION STATUS LINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=ACTIVE+RESEARCH+NODE;WEB+%7C+ANDROID+%7C+API+SECURITY+OPERATIONS;BUG+BOUNTY+INTELLIGENCE+UNIT;ATTACK+SURFACE+ANALYSIS+IN+PROGRESS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=BLACK+HAT+STYLE+RESEARCHER;WEB+%26+MOBILE+PENTESTER;BUG+BOUNTY+HUNTER;API+%26+EXPLOIT+RESEARCHER;BREAKING+SYSTEMS+TO+BUILD+STRONGER+ONES" />
+
+---
+
+## ☠️ “I don’t hack systems… I understand them deeply.”
 
 </div>
 
 ---
 
-# 🧠 INTELLIGENCE STATUS
+# 🧬 PROFILE // OPERATOR DATA
 
 ```txt
-NODE        : ACTIVE
-ROLE        : Security Research Operator
-DOMAIN      : Web | Android | API Security
-MISSION     : Vulnerability Discovery & Threat Mapping
-MODE        : Offensive Research / Bug Bounty
-CLEARANCE   : Ethical Security Testing Scope
+Alias       : Red Team Operative
+Focus       : Web / Mobile / API Security
+Specialty   : Vulnerability Research & Exploit Dev
+Level       : Bug Bounty Hunter | Security Researcher
+Philosophy  : "Know the system better than its creator"
 ````
 
 ---
 
-# 🛰️ OPERATIONAL MODULES
+# 🧠 CORE SKILLS
 
-▸ Attack Surface Mapping
-▸ Web Exploitation Research (OWASP + Advanced Flaws)
-▸ Android Application Security Analysis
-▸ API Security (Auth / IDOR / BOLA Detection)
-▸ Real-World Bug Bounty Programs
-▸ Automation & Recon Intelligence Systems
+* Web Application Pentesting
+* Mobile Security (Android Focus)
+* API Security Testing (REST / GraphQL)
+* Reverse Engineering Basics
+* Exploit Research & Payload Design
+* Security Automation (Python / Bash)
+* Recon & Attack Surface Mapping
 
 ---
 
-# 🧰 TOOLING MATRIX
+# 🧰 ARSENAL
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,androidstudio,vscode,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,git,docker,androidstudio,vscode&theme=dark" />
 </p>
 
 ---
 
-# ⚙️ ACTIVE OPERATIONS
-
-## 🧬 Web Pentest Methodology Node
-
-🔗 [https://github.com/AliAlMansorisec/Web-Pentest-Methodology](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)
-📌 Full penetration testing intelligence workflow system
-(Recon → Enumeration → Exploitation → Reporting)
-
----
-
-## ⚙️ Automation Layer
-
-📌 Internal security systems for:
-
-* Asset discovery
-* Recon automation
-* Vulnerability pattern detection
-* Attack surface enumeration
-
----
-
-## 🧠 Intelligence Research Platform
-
-🔗 [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
-📌 Security knowledge & offensive research hub
-
----
-
-# 🌐 INTELLIGENCE FOOTPRINT
-
-▸ GitHub Node: [https://github.com/AliAlMansorisec](https://github.com/AliAlMansorisec)
-▸ Threat Feed: [https://x.com/AliAlMansoriSec](https://x.com/AliAlMansoriSec)
-▸ Research Hub: [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
-▸ Contact: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-# 📊 LIVE INTELLIGENCE DASHBOARD
+# 📊 LIVE CYBER INTELLIGENCE
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
-<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📡 THREAT ACTIVITY STREAM
+# 📈 ACTIVITY GRAPH // LIVE HACKER TRACK
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlMansorisec&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlMansorisec&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-# 🛰️ SECURITY DIRECTIVE
+# 🛰️ LATEST VULNERABILITIES FOUND
 
 ```txt
-→ Identify attack surfaces before exploitation
-→ Analyze systems before interaction
-→ Automate reconnaissance and intelligence gathering
-→ Focus on real-world vulnerabilities
-→ Prioritize impact over volume
+→ Web App Security Research
+→ API Authorization Flaws (IDOR / BOLA)
+→ Authentication Bypass Cases
+→ Mobile App Security Analysis (Android)
+→ Business Logic Vulnerabilities
 ```
 
----
-
-# 🧭 CORE DOCTRINE
-
-> “A system is never secure — only understood or misunderstood.”
-
-> Intelligence > Noise
-> Precision > Speed
-> Analysis > Action
+📌 *Note: Replace this section with your real bug bounty reports later.*
 
 ---
 
-# 🛰️ END OF REPORT
+# 🏆 HACKER BADGES
+
+<p align="center">
+
+<img src="https://www.hackthebox.com/badge/image/0" alt="HackTheBox" />
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/your-username.png" alt="TryHackMe" />
+
+</p>
+
+---
+
+# 🚀 PROJECTS // BLACK OPS
+
+| Project                   | Description                       | Status    |
+| ------------------------- | --------------------------------- | --------- |
+| Red Team Dashboard        | Security operations control panel | 🟢 Active |
+| Pentest Automation Engine | Automated web testing framework   | 🟢 Active |
+| Mobile Security Toolkit   | Android testing utilities         | 🟡 Beta   |
+| Bug Bounty Recon Suite    | Recon + exploitation tools        | 🟢 Active |
+
+---
+
+# 📡 CONNECT // SECURE CHANNELS
+
+<p align="center">
+
+<a href="https://github.com/AliAlMansorisec">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=130&section=footer" />
+## 💀 “The quieter you become, the more you understand.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
 
 </div>
-``` 
+```
