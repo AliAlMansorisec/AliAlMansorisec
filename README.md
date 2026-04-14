@@ -57,28 +57,46 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-# 🚀 Projects 
+## 🚀 Projects // Security Operations
 
-| 🧬 Project | 📌 Description | ⚙️ Type | 🔗 Link |
-|------------|----------------|---------|--------|
-| Web Pentest Methodology | Structured workflow for professional web application penetration testing (Recon → Enumeration → Exploitation → Reporting) | Web Security Framework | https://github.com/AliAlMansorisec/Web-Pentest-Methodology |
-| WPT-Workflow-Manager | Automation script for managing pentest workflow, project structure, and reconnaissance operations | Security Automation Tool | https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts |
-|
+| #️⃣    | 🧬 Project                     | 📌 Description                                                                                  | ⚙️ Type                     | 🔗 Link                                                                      |
+| ------ | ------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------- |
+| **01** | 🧭 **Web Pentest Methodology** | Professional workflow for testing web application security from Recon to Reporting              | 🛡️ Web Security Framework  | https://github.com/AliAlMansorisec/Web-Pentest-Methodology                   |
+| **02** | ⚙️ **WPT-Workflow-Manager**    | Automation tool for managing pentest workflow, project structure, and reconnaissance operations | 🤖 Security Automation Tool | https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts |
 
-## ⚙️ Web Pentest Methodology
+---
+
+# ⚙️ Core Security Modules
+
+## 🧭 01 — Web Pentest Methodology
+
 ```txt
 Script Name  : Web-Pentest-Methodology
 Purpose      : Structured framework for professional web application penetration testing
 Category     : Web Security Framework / Offensive Security Methodology
 Environment  : Linux / Manual + Automation Support
 ```
-## ⚙️ WPT-Workflow-Manager
+
+---
+
+## 🤖 02 — WPT-Workflow-Manager
+
 ```txt
 Script Name  : WPT-Workflow-Manager
 Purpose      : Automate and manage Web Pentest methodology workflow
 Category     : Recon + Project Structuring + Automation
 Environment  : Linux / Bash
 ```
+---
+
+## 🎯 Use Cases
+
+* 🐞 Bug Bounty Engagements
+* 🛡️ Web Application Security Testing
+* 🔴 Red Team Operations
+* 🧪 Security Research & Practice
+* 🏢 Client Security Assessments
+
 
 ---
 
