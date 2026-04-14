@@ -48,11 +48,19 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-# 🧰 TECH STACK
+# 🧰 Security Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,androidstudio,vscode&theme=dark" />
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuclei-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FFUF-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/JADX-000000?style=for-the-badge"/>
+
 </p>
+
 
 ---
 
