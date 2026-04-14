@@ -8,16 +8,16 @@
 <br>
 
 <!-- 🧠 PROFILE CARD -->
+
  ```text
- 
 🛡️ Name  : Ali Al-Mansori  
 🎯 Role  : Security Researcher / Offensive Security Analyst  
 ⚡ Focus : Web • Android • API Security • Bug Bounty  
 
 🧠 About : Cybersecurity researcher specializing in web and mobile penetration testing.  
           Focused on vulnerability discovery, system analysis, and security automation development.
-</pre>
 ```
+
 <br>
 
 <!-- 💀 BADGES -->
