@@ -10,10 +10,10 @@
 <img src="https://img.shields.io/badge/Red%20Team-1a0000?style=for-the-badge&logo=target&logoColor=FF0000"/>
 
 </div>
----
+
 <div align="center">
 
-# 🛡️ ALI AL-MANSORI 🛡️
+
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=WEB+PENTESTER;BUG+BOUNTY+HUNTER;SECURITY+DEVELOPER" />
 
