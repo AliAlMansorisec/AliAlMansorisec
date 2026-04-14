@@ -67,14 +67,6 @@ Mission     : Discover vulnerabilities before attackers do
 | Android Security Research | Mobile application security analysis & reverse engineering practice | Mobile Security | Ongoing Research |
 ---
 
-## ⚙️ Security Automation Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Recon%20Automation-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subdomain%20Enum-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vulnerability%20Detection-1a1a1a?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🧠 Cyber Thought Platform
@@ -131,26 +123,6 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-# 🛰️ SECURITY MISSION
-
-```txt
-→ Web Application Exploitation
-→ Android Reverse Engineering
-→ API Security Analysis
-→ Bug Bounty Programs
-→ Vulnerability Research
-→ Security Automation Systems
-```
-
----
-
-# 💀 CYBER PHILOSOPHY
-
-> “Understand the system… before you attempt to break it.”
-
-> Precision > Noise
-> Depth > Speed
-> Intelligence > Action
 
 ---
 
