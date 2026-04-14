@@ -3,6 +3,9 @@
 <!-- 🛰️ NAME BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=WEB+PENTESTER;BUG+BOUNTY+HUNTER;SECURITY+DEVELOPER" />
+
+
 <!-- ⚡ ROLE BADGES -->
 <img src="https://img.shields.io/badge/Web%20Pentester-FF0000?style=for-the-badge&logo=bugatti&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android%20Security-111111?style=for-the-badge&logo=android&logoColor=3DDC84"/>
