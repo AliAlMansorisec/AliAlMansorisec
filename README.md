@@ -82,7 +82,7 @@ Mission     : Discover vulnerabilities before attackers do
 <div dir="auto">
 
   <a href="https://x.com/AliAlMansoriSec">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-FF0000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X%20(Twitter)-100000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 
   <a href="https://www.linkedin.com">
