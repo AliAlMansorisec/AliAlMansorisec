@@ -1,123 +1,92 @@
-# Ali Al-Mansori
+# <p align="center">Hi there, I'm Ali Al-Mansori 👋</p>
 
-🛡️ Web Pentester | Bug Bounty Hunter | Cyber Security Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F81B1B&center=true&vCenter=true&width=500&lines=Web+Penetration+Tester;Bug+Bounty+Hunter;Cyber+Security+Researcher;Automation+Script+Writer" alt="Typing SVG" />
+</p>
 
----
-
-## 🚀 About Me
-
-Hi! I'm **Ali Al-Mansori**, a passionate **Web Penetration Tester** focused on discovering vulnerabilities and improving web security.
-
-I specialize in:
-
-- Web Application Security Testing
-- Bug Bounty Hunting
-- Vulnerability Assessment
-- Security Methodology & Workflow
-- Writing professional penetration testing reports
-
-I created **pentest-workflow**, a methodology-driven system for organizing penetration testing projects and producing structured reports.
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Focus-Web_Security-red?style=for-the-badge&logo=shippable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tools-BurpSuite_%26_Kali-orange?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Bash_%26_Python-blue?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 What I Do
+### 🛡️ Professional Persona
+مهتم بعلوم الـ Offensive Security وتطوير المنهجيات الذكية لاختبار الاختراق. أركز بشكل أساسي على تحليل الثغرات الأمنية في تطبيقات الويب وبناء بيئات عمل منظمة لفرق الـ Red Teaming.
 
-- Perform Web Application Penetration Testing
-- Discover and analyze vulnerabilities
-- Build automation scripts for pentesting
-- Develop structured security workflows
-- Document findings and create professional reports
-
----
-
-## 🧠 Skills & Expertise
-
-### 🔐 Web Security
-
-- XSS (Cross-Site Scripting)
-- SQL Injection
-- IDOR
-- CSRF
-- SSRF
-- File Upload
-- Authentication & Access Control
-- API Security Testing
-
-### 🛠️ Tools
-
-- Burp Suite
-- Nmap
-- FFUF
-- Dirsearch
-- Subfinder
-- Httpx
-- Nuclei
-- Amass
-
-### 💻 Technical Skills
-
-- Linux (Kali Linux)
-- Bash Scripting
-- Reconnaissance
-- Manual Testing
-- Automation
-- Report Writing
+- 🔭 **أعمل حالياً على:** تطوير مشروع [pentest-workflow](https://github.com/ali-al-mansori-cs/pentest-workflow).
+- ⚡ **تخصصي:** اكتشاف ثغرات الـ Logic وثغرات الـ Web الخطيرة (SSRF, IDOR, RCE).
+- 🚀 **فلسفتي:** "التنظيم هو نصف الاختراق".
 
 ---
 
-## 🧪 My Project
+### 🛠️ Technical Arsenal
 
-### 🛡️ pentest-workflow
-
-A professional **methodology-driven penetration testing environment** designed to organize testing phases, evidence, and reports.
-
-Features:
-
-- Structured pentesting workflow
-- Automated project setup
-- Organized vulnerability documentation
-- Professional reporting system
-
-Repository:
-
-https://github.com/YOUR_USERNAME/pentest-workflow
-
----
-
-## 📂 Example Workflow
-
-Scope  
-↓  
-Recon  
-↓  
-Mapping  
-↓  
-Testing  
-↓  
-Exploitation  
-↓  
-Documentation  
-↓  
-Reporting  
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 📂 Featured Projects
 
-(سيظهر تلقائيًا بعد إضافة الأدوات)
-
----
-
-## 📬 Contact Me
-
-GitHub: https://github.com/YOUR_USERNAME  
-
-Website: الفكر السيبراني  
-
-Email: your@email.com  
+| Project | Description | Status |
+| :--- | :--- | :---: |
+| [**RTOS Dashboard**](https://github.com/ali-al-mansori-cs/pentest-workflow) | لوحة تحكم متكاملة لإدارة مشاريع الـ Red Team والـ Recon. | 🚀 Active |
+| [**Pentest Workflow**](https://github.com/ali-al-mansori-cs/pentest-workflow) | المنهجية الكاملة لاختبار تطبيقات الويب بأسلوب احترافي. | ✅ Stable |
 
 ---
 
-## ⚠️ Legal Notice
+### 📈 GitHub Ecosystem
 
-All testing activities are performed only on authorized targets or for educational purposes.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ali-al-mansori-cs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-al-mansori-cs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📬 Connect & Contact
+
+<p align="center">
+  <a href="https://github.com/ali-al-mansori-cs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://الفكر-السيبراني.com"> <img src="https://img.shields.io/badge/Website-الفكر_السيبراني-red?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Authorized_Testing_Only-green?style=flat-square" />
+</p>
