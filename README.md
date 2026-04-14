@@ -77,29 +77,27 @@ Mission     : Discover vulnerabilities before attackers do
 </p>
 
 ---
-# 🛰️ CONNECT WITH ME
+## 📬 Let's Connect
 
-### Professional Contact & Cyber Presence
+<div align="center">
 
+  <a href="https://x.com/AliAlMansoriSec">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-Security%20Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 
-<p align="center">
-  <a href="https://github.com/ali-almansoori">
-    <img src="https://img.shields.io/badge/GitHub-ali--almansoori-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/ali_almansoori">
-    <img src="https://img.shields.io/badge/X_(Twitter)-%40ali__almansoori-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/ali.almansoori.sec">
-    <img src="https://img.shields.io/badge/Facebook-علي_المنصوري-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+
+  <a href="https://github.com/AliAlMansorisec">
+    <img src="https://img.shields.io/badge/GitHub-Ali%20Al%20Mansori-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <br>
-  <a href="https://your-portfolio-site.com">
-    <img src="https://img.shields.io/badge/🌐_الموقع_الشخصي-Portfolio-DC143C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:me@ali-almansoori.com">
-    <img src="https://img.shields.io/badge/📧_البريد_الإلكتروني-ali@almansoori.com-8B0000?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+
+</div>
 
 
 
