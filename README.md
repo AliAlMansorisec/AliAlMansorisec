@@ -63,8 +63,22 @@ Mission     : Discover vulnerabilities before attackers do
 |------------|----------------|---------|--------|
 | Web Pentest Methodology | Structured workflow for web penetration testing (Recon → Exploit → Report) | Web Security Framework | https://github.com/AliAlMansorisec/Web-Pentest-Methodology |
 | Cyber Thought Platform | Security awareness & offensive security learning hub | Education Platform | https://cyber-thought.vercel.app/ar |
-| Security Automation Tools | Recon & vulnerability discovery automation scripts | Offensive Tools | Private / Internal |
-| Android Security Research | Mobile application security analysis & reverse engineering practice | Mobile Security | Ongoing Research |
+
+```txt
+⚙️  Web Pentest Methodology
+Script Name  : Web-Pentest-Methodology
+Purpose      : Structured framework for professional web application penetration testing
+Category     : Web Security Framework / Offensive Security Methodology
+Environment  : Linux / Manual + Automation Support
+```
+```txt
+⚙️ WPT-Workflow-Manager
+Script Name  : WPT-Workflow-Manager
+Purpose      : Automate and manage Web Pentest methodology workflow
+Category     : Recon + Project Structuring + Automation
+Environment  : Linux / Bash
+```
+
 ---
 
 ---
