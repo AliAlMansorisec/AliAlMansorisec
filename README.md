@@ -9,7 +9,6 @@
 
 <!-- 🧠 PROFILE CARD -->
  ```text
-<pre>
  
 🛡️ Name  : Ali Al-Mansori  
 🎯 Role  : Security Researcher / Offensive Security Analyst  
