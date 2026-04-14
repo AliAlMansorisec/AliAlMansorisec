@@ -22,7 +22,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F81B1B&center=true&vCenter=true&width=600&lines=Web+Penetration+Tester;Bug+Bounty+Hunter;Cyber+Security+Researcher;Automation+Script+Writer" alt="Typing SVG" />
 </p>
 
-
+</div>
 ---
 
 # 🌐 ABOUT Me
