@@ -119,9 +119,7 @@ Environment  : Linux / Bash
 
 ## “The quieter you become, the more you understand.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=160&section=footer"/>
 
 </div>
 
-
-```
