@@ -74,7 +74,7 @@ Mission     : Discover vulnerabilities before attackers do
 
 ### Professional Contact & Cyber Presence
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/AliAlMansorisec">
 <img src="https://img.shields.io/badge/GitHub-ALI%50AL%50MANSORI-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
