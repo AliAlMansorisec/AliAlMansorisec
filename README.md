@@ -57,12 +57,14 @@ Mission     : Discover vulnerabilities before attackers do
 
 ---
 
-# 🚀 PROJECTS 
-🧬 Web Pentest Methodology
+## 🚀 Projects // Security Operations
 
-<a href="https://github.com/AliAlMansorisec/Web-Pentest-Methodology">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAlMansorisec&repo=Web-Pentest-Methodology&theme=tokyonight&hide_border=true&cache_seconds=60" />
-</a>
+| 🧬 Project | 📌 Description | ⚙️ Type | 🔗 Link |
+|------------|----------------|---------|--------|
+| Web Pentest Methodology | Structured workflow for web penetration testing (Recon → Exploit → Report) | Web Security Framework | https://github.com/AliAlMansorisec/Web-Pentest-Methodology |
+| Cyber Thought Platform | Security awareness & offensive security learning hub | Education Platform | https://cyber-thought.vercel.app/ar |
+| Security Automation Tools | Recon & vulnerability discovery automation scripts | Offensive Tools | Private / Internal |
+| Android Security Research | Mobile application security analysis & reverse engineering practice | Mobile Security | Ongoing Research |
 ---
 
 ## ⚙️ Security Automation Tools
