@@ -1,86 +1,85 @@
 <div align="center">
 
-<!-- 🧬 ENTERPRISE CYBER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:0d0d0d,50:ff0000,75:0d0d0d,100:000000&height=240&section=header&text=ALI%20AL-MANSORI&fontSize=44&fontColor=FF0000&fontAlignY=38&desc=SECURITY%20RESEARCHER%20%7C%20RED%20TEAM%20%7C%20BUG%20BOUNTY%20%7C%20MOBILE%20%26%20WEB%20SECURITY&descSize=15&descAlignY=62" />
+<!-- 🛰️ FIXED ENTERPRISE HEADER (WORKING + CLEAN) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=230&section=header&text=THREAT%20INTELLIGENCE%20NODE&fontSize=32&fontColor=FF0000&fontAlignY=38&desc=ALI%20AL-MANSORI%20%7C%20SECURITY%20RESEARCH%20UNIT&descSize=14&descAlignY=60" />
 
-<!-- ⚡ PROFESSIONAL TAGLINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=FF0000&center=true&vCenter=true&width=950&lines=Enterprise+Security+Researcher;Web+%26+Android+Application+Security;Bug+Bounty+Hunter+%7C+API+Security+Specialist;Vulnerability+Research+%7C+Exploit+Analysis;Offensive+Security+%7C+Red+Team+Operations" />
+<!-- ⚡ OPERATION STATUS LINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=ACTIVE+RESEARCH+NODE;WEB+%7C+ANDROID+%7C+API+SECURITY+OPERATIONS;BUG+BOUNTY+INTELLIGENCE+UNIT;ATTACK+SURFACE+ANALYSIS+IN+PROGRESS" />
 
 </div>
 
 ---
 
-# 🧠 EXECUTIVE SUMMARY
+# 🧠 INTELLIGENCE STATUS
 
 ```txt
-Name        : Ali Al-Mansori
-Position    : Security Researcher (Offensive Security)
-Specialties : Web Security | Android Security | API Security | Bug Bounty
-Focus Area  : Vulnerability Research & Real-World Exploitation
-Approach    : Analytical • Minimal • Precision-Based
-Mindset     : Understand systems before attempting to test them
+NODE        : ACTIVE
+ROLE        : Security Research Operator
+DOMAIN      : Web | Android | API Security
+MISSION     : Vulnerability Discovery & Threat Mapping
+MODE        : Offensive Research / Bug Bounty
+CLEARANCE   : Ethical Security Testing Scope
 ````
 
 ---
 
-# 🏢 CORE SECURITY CAPABILITIES
+# 🛰️ OPERATIONAL MODULES
 
-▸ Web Application Security (OWASP Top 10 + Advanced Exploitation)
-▸ Android Application Security (Static & Dynamic Analysis)
-▸ API Security Assessment (Authentication / Authorization / Logic Flaws)
-▸ Bug Bounty Hunting (Real Production Environments)
-▸ Business Logic Vulnerability Research
-▸ Security Automation & Recon Pipelines
+▸ Attack Surface Mapping
+▸ Web Exploitation Research (OWASP + Advanced Flaws)
+▸ Android Application Security Analysis
+▸ API Security (Auth / IDOR / BOLA Detection)
+▸ Real-World Bug Bounty Programs
+▸ Automation & Recon Intelligence Systems
 
 ---
 
-# 🧰 TECHNOLOGY STACK
+# 🧰 TOOLING MATRIX
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,androidstudio,vscode,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,androidstudio,vscode,js&theme=dark" />
 </p>
 
 ---
 
-# 🚀 ENGINEERING PROJECTS
+# ⚙️ ACTIVE OPERATIONS
 
-## 🧬 Web Pentest Methodology Framework
+## 🧬 Web Pentest Methodology Node
 
 🔗 [https://github.com/AliAlMansorisec/Web-Pentest-Methodology](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)
-📌 Structured enterprise-grade workflow for penetration testing lifecycle
+📌 Full penetration testing intelligence workflow system
 (Recon → Enumeration → Exploitation → Reporting)
 
 ---
 
-## ⚙️ Security Automation Layer
+## ⚙️ Automation Layer
 
-📌 Internal tools for:
+📌 Internal security systems for:
 
-* Asset discovery automation
-* Subdomain enumeration pipelines
-* Vulnerability detection workflows
-* Recon orchestration systems
+* Asset discovery
+* Recon automation
+* Vulnerability pattern detection
+* Attack surface enumeration
 
 ---
 
-## 🧠 Cyber Thought Platform
+## 🧠 Intelligence Research Platform
 
 🔗 [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
-📌 Security awareness & offensive security knowledge platform
+📌 Security knowledge & offensive research hub
 
 ---
 
-# 🌐 PROFESSIONAL FOOTPRINT
+# 🌐 INTELLIGENCE FOOTPRINT
 
-▸ GitHub: [https://github.com/AliAlMansorisec](https://github.com/AliAlMansorisec)
-▸ X (Security Feed): [https://x.com/AliAlMansoriSec](https://x.com/AliAlMansoriSec)
-▸ Research Platform: [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
-▸ Email: [your-email@example.com](mailto:your-email@example.com)
-▸ Portfolio: Personal Security Research Profile
+▸ GitHub Node: [https://github.com/AliAlMansorisec](https://github.com/AliAlMansorisec)
+▸ Threat Feed: [https://x.com/AliAlMansoriSec](https://x.com/AliAlMansoriSec)
+▸ Research Hub: [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
+▸ Contact: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
-# 📊 SECURITY ANALYTICS DASHBOARD
+# 📊 LIVE INTELLIGENCE DASHBOARD
 
 <p align="center">
 
@@ -96,7 +95,7 @@ Mindset     : Understand systems before attempting to test them
 
 ---
 
-# 📡 SECURITY ACTIVITY INTELLIGENCE
+# 📡 THREAT ACTIVITY STREAM
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlMansorisec&theme=react-dark&hide_border=true&area=true" />
@@ -104,31 +103,33 @@ Mindset     : Understand systems before attempting to test them
 
 ---
 
-# 🛰️ OPERATIONAL FOCUS AREAS
+# 🛰️ SECURITY DIRECTIVE
 
 ```txt
-→ Advanced Web Exploitation (OWASP + Real-world Scenarios)
-→ Mobile Security Research (Android Reverse Engineering)
-→ API Security Testing (Auth Bypass / IDOR / BOLA)
-→ Bug Bounty Program Engagement
-→ Business Logic Vulnerability Analysis
-→ Security Tooling & Automation Engineering
+→ Identify attack surfaces before exploitation
+→ Analyze systems before interaction
+→ Automate reconnaissance and intelligence gathering
+→ Focus on real-world vulnerabilities
+→ Prioritize impact over volume
 ```
 
 ---
 
-# 🧭 SECURITY PHILOSOPHY
+# 🧭 CORE DOCTRINE
 
-> “Security is not about breaking systems.
-> It is about understanding them at a deeper level than their designers.”
+> “A system is never secure — only understood or misunderstood.”
+
+> Intelligence > Noise
+> Precision > Speed
+> Analysis > Action
 
 ---
 
-# 🧾 FINAL STATUS
+# 🛰️ END OF REPORT
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=130&section=footer" />
 
 </div>
 ``` 
