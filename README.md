@@ -69,6 +69,12 @@ Mission     : Discover vulnerabilities before attackers do
 | **02** | ⚙️ [**WPT-Workflow-Manager**](https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts)    | Automation tool for managing pentest workflow, project structure, and reconnaissance operations | 🤖 Security Automation Tool ||
 
 ---
+# 📊 GitHub Stats:
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-almansoori&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C" alt="Ali's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-almansoori&theme=dark&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%"/>
+</p>
 
 ---
 # 🛰️ CONNECT WITH ME
