@@ -1,99 +1,92 @@
 <div align="center">
 
-<!-- 💀 3D CYBER BANNER (NEW ELITE STYLE) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:1a0000,50:ff0000,75:1a0000,100:000000&height=230&section=header&text=ALI%20AL-MANSORI&fontSize=48&fontColor=ff0000&fontAlignY=35&desc=RED%20TEAM%20OPERATOR%20%7C%20BUG%20BOUNTY%20HUNTER%20%7C%20MOBILE%20%26%20WEB%20PENTESTER&descSize=16&descAlignY=60&animation=fadeIn" />
+<!-- 🧬 ENTERPRISE CYBER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:0d0d0d,50:ff0000,75:0d0d0d,100:000000&height=240&section=header&text=ALI%20AL-MANSORI&fontSize=44&fontColor=FF0000&fontAlignY=38&desc=SECURITY%20RESEARCHER%20%7C%20RED%20TEAM%20%7C%20BUG%20BOUNTY%20%7C%20MOBILE%20%26%20WEB%20SECURITY&descSize=15&descAlignY=62" />
 
-<!-- ⚡ CLEAN STATUS LINE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&pause=900&color=FF0000&center=true&vCenter=true&width=900&lines=Web+Pentesting+%7C+Android+Security+Research;Bug+Bounty+Hunting+%7C+API+Security+Testing;Exploit+Research+%7C+Vulnerability+Analysis;Think+Like+an+Attacker+%7C+Act+Like+a+Researcher" />
+<!-- ⚡ PROFESSIONAL TAGLINE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=900&color=FF0000&center=true&vCenter=true&width=950&lines=Enterprise+Security+Researcher;Web+%26+Android+Application+Security;Bug+Bounty+Hunter+%7C+API+Security+Specialist;Vulnerability+Research+%7C+Exploit+Analysis;Offensive+Security+%7C+Red+Team+Operations" />
 
 </div>
 
 ---
 
-# 🧠 IDENTITY // SECURITY PROFILE
+# 🧠 EXECUTIVE SUMMARY
 
 ```txt
-NAME        : Ali Al-Mansori
-ROLE        : Security Researcher / Offensive Security
-SPECIALTY   : Web • Android • API Security • Bug Bounty
-FOCUS       : Vulnerability Research + Exploit Understanding
-STYLE       : Silent • Minimal • Precise Execution
-MINDSET     : Think like an attacker. Move like a researcher.
+Name        : Ali Al-Mansori
+Position    : Security Researcher (Offensive Security)
+Specialties : Web Security | Android Security | API Security | Bug Bounty
+Focus Area  : Vulnerability Research & Real-World Exploitation
+Approach    : Analytical • Minimal • Precision-Based
+Mindset     : Understand systems before attempting to test them
 ````
 
 ---
 
-# ⚔️ CORE DOMAINS
+# 🏢 CORE SECURITY CAPABILITIES
 
-▸ Web Application Pentesting (OWASP / Real-world Exploits)
-▸ Android Application Security (Reverse + Analysis)
-▸ API Security Testing (REST / GraphQL / Auth Flaws)
-▸ Bug Bounty Hunting (Real Programs)
-▸ Vulnerability Research (Logic & Design Flaws)
-▸ Security Automation (Python / Bash)
+▸ Web Application Security (OWASP Top 10 + Advanced Exploitation)
+▸ Android Application Security (Static & Dynamic Analysis)
+▸ API Security Assessment (Authentication / Authorization / Logic Flaws)
+▸ Bug Bounty Hunting (Real Production Environments)
+▸ Business Logic Vulnerability Research
+▸ Security Automation & Recon Pipelines
 
 ---
 
-# 🧰 TECH ARSENAL (STACK)
+# 🧰 TECHNOLOGY STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,androidstudio,vscode,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,androidstudio,vscode,javascript&theme=dark" />
 </p>
 
 ---
 
-# 🚀 ACTIVE PROJECTS
+# 🚀 ENGINEERING PROJECTS
 
-## 🧬 Web Pentest Methodology Engine
+## 🧬 Web Pentest Methodology Framework
 
 🔗 [https://github.com/AliAlMansorisec/Web-Pentest-Methodology](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)
-📌 Full structured workflow for Web Pentesting (Recon → Exploit → Report)
+📌 Structured enterprise-grade workflow for penetration testing lifecycle
+(Recon → Enumeration → Exploitation → Reporting)
 
 ---
 
 ## ⚙️ Security Automation Layer
 
-📌 Custom scripts for:
+📌 Internal tools for:
 
-* Recon automation
-* Subdomain enumeration
+* Asset discovery automation
+* Subdomain enumeration pipelines
 * Vulnerability detection workflows
+* Recon orchestration systems
 
 ---
 
 ## 🧠 Cyber Thought Platform
 
 🔗 [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
-📌 Security awareness + learning + offensive mindset content
+📌 Security awareness & offensive security knowledge platform
 
 ---
 
-# 🌐 DIGITAL FOOTPRINT
+# 🌐 PROFESSIONAL FOOTPRINT
 
-▸ 🐙 GitHub
-[https://github.com/AliAlMansorisec](https://github.com/AliAlMansorisec)
-
-▸ 🐦 X (Cyber Feed)
-[https://x.com/AliAlMansoriSec](https://x.com/AliAlMansoriSec)
-
-▸ 🌐 Cyber Research Hub
-[https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
-
-▸ 📧 Contact
-[your-email@example.com](mailto:your-email@example.com)
-
-▸ 🧑‍💻 Portfolio
-Ali Al-Mansori | Personal Security Profile
+▸ GitHub: [https://github.com/AliAlMansorisec](https://github.com/AliAlMansorisec)
+▸ X (Security Feed): [https://x.com/AliAlMansoriSec](https://x.com/AliAlMansoriSec)
+▸ Research Platform: [https://cyber-thought.vercel.app/ar](https://cyber-thought.vercel.app/ar)
+▸ Email: [your-email@example.com](mailto:your-email@example.com)
+▸ Portfolio: Personal Security Research Profile
 
 ---
 
-# 📊 LIVE SECURITY METRICS
+# 📊 SECURITY ANALYTICS DASHBOARD
 
 <p align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -103,7 +96,7 @@ Ali Al-Mansori | Personal Security Profile
 
 ---
 
-# 📡 ACTIVITY STREAM
+# 📡 SECURITY ACTIVITY INTELLIGENCE
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlMansorisec&theme=react-dark&hide_border=true&area=true" />
@@ -111,35 +104,31 @@ Ali Al-Mansori | Personal Security Profile
 
 ---
 
-# 🛰️ SECURITY FOCUS MAP
+# 🛰️ OPERATIONAL FOCUS AREAS
 
 ```txt
-→ Web Exploitation (OWASP Top 10)
-→ Mobile App Security (Android Reverse & Analysis)
-→ API Security (Auth Bypass / IDOR / BOLA)
-→ Bug Bounty Hunting (Real Targets)
-→ Logic Vulnerabilities (Business Logic Abuse)
-→ Security Automation (Recon Pipelines)
+→ Advanced Web Exploitation (OWASP + Real-world Scenarios)
+→ Mobile Security Research (Android Reverse Engineering)
+→ API Security Testing (Auth Bypass / IDOR / BOLA)
+→ Bug Bounty Program Engagement
+→ Business Logic Vulnerability Analysis
+→ Security Tooling & Automation Engineering
 ```
 
 ---
 
-# 💀 OPERATOR PHILOSOPHY
+# 🧭 SECURITY PHILOSOPHY
 
 > “Security is not about breaking systems.
-> It is about understanding them better than anyone else.”
-
-> Precision > Noise
-> Depth > Speed
-> Understanding > Exploitation
+> It is about understanding them at a deeper level than their designers.”
 
 ---
 
-# 🔥 END SIGNAL
+# 🧾 FINAL STATUS
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:1a0000,100:000000&height=140&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:ff0000,100:000000&height=140&section=footer" />
 
 </div>
-```
+``` 
