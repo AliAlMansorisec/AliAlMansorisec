@@ -31,18 +31,15 @@
 
 
 ```txt
-Name        : Ali Al-Mansori
-Role        : Security Researcher / Offensive Security Analyst
-Focus       : Web • Android • API Security • Bug Bounty
-Style       : Minimal • Precise • Analytical
-Mission     : Discover vulnerabilities before attackers do
+🛡️ Name  : Ali Al-Mansori
+
+🧠 About :
+I am a cybersecurity researcher specializing in web and mobile penetration testing.  
+I focus on vulnerability discovery, system analysis, and building automation security tools.
+
+🎯 Focus : Web • Android • API Security • Bug Bounty
+
 ```
-<p align="center">
-  <img src="https://img.shields.io/badge/Cyber%20Security-Researcher-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android-Security-darkred?style=for-the-badge&logo=android"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-Hunter-000000?style=for-the-badge&logo=bugcrowd"/>
-</p>
 ---
 
 # Portfolio
