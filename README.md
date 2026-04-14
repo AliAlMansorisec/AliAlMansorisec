@@ -44,10 +44,6 @@ Mission     : Discover vulnerabilities before attackers do
 ---
 
 
-
-
----
-
 # 🧰 Security Tools
 
 <p align="center">
@@ -71,29 +67,6 @@ Mission     : Discover vulnerabilities before attackers do
 | **01** | 🧭 [**Web Pentest Methodology**](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)| Professional workflow for testing web application security from Recon to Reporting              | 🛡️ Web Security Framework  |  |
 | **02** | ⚙️ [**WPT-Workflow-Manager**](https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts)    | Automation tool for managing pentest workflow, project structure, and reconnaissance operations | 🤖 Security Automation Tool ||
 
----
-
-# ⚙️ Core Security Modules
-
-## 🧭 01 — Web Pentest Methodology
-
-```txt
-Script Name  : Web-Pentest-Methodology
-Purpose      : Structured framework for professional web application penetration testing
-Category     : Web Security Framework / Offensive Security Methodology
-Environment  : Linux / Manual + Automation Support
-```
-
----
-
-## 🤖 02 — WPT-Workflow-Manager
-
-```txt
-Script Name  : WPT-Workflow-Manager
-Purpose      : Automate and manage Web Pentest methodology workflow
-Category     : Recon + Project Structuring + Automation
-Environment  : Linux / Bash
-```
 ---
 
 ---
