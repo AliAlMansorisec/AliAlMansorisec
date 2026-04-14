@@ -1,108 +1,132 @@
 <div align="center">
 
-# 🛡️ RED TEAM OPERATIVE | ALI AL-MANSORI 🛡️
+<!-- ⚡ ULTRA BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=30&pause=1000&color=FF1E1E&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Bug+Bounty+Hunter;Web+Pentester;Security+Automation+Engineer;Breaking+Systems+to+Make+Them+Secure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=BLACK+HAT+STYLE+RESEARCHER;WEB+%26+MOBILE+PENTESTER;BUG+BOUNTY+HUNTER;API+%26+EXPLOIT+RESEARCHER;BREAKING+SYSTEMS+TO+BUILD+STRONGER+ONES" />
 
 ---
 
-## ⚔️ “Security is not a product… it’s a process.”
-
-💀 Offensive Security | 🧠 Ethical Hacking | 🔐 Exploit Research | ⚙️ Automation Tools
+## ☠️ “I don’t hack systems… I understand them deeply.”
 
 </div>
 
 ---
 
-## 🧬 ABOUT ME
+# 🧬 PROFILE // OPERATOR DATA
 
 ```txt
-Name        : Ali Al-Mansori
-Role        : Red Team / Bug Bounty Hunter
-Focus       : Web Security | API Security | Automation | Pentesting Frameworks
-Mindset     : Think like an attacker. Build like a defender.
-Philosophy  : "If you can’t measure it, you can’t secure it."
+Alias       : Red Team Operative
+Focus       : Web / Mobile / API Security
+Specialty   : Vulnerability Research & Exploit Dev
+Level       : Bug Bounty Hunter | Security Researcher
+Philosophy  : "Know the system better than its creator"
 ````
 
-أنا باحث في الأمن السيبراني أركز على **اختبار اختراق الويب، تحليل الثغرات، وبناء أدوات أتمتة هجومية** لتحسين عمليات الـ Red Team والـ Bug Bounty.
-
 ---
 
-## 🧰 ARSENAL // TOOLS & SKILLS
+# 🧠 CORE SKILLS
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,git,docker,vscode,github&theme=dark" />
-</p>
-
-### ⚡ Offensive Stack
-
-* Web Application Penetration Testing
+* Web Application Pentesting
+* Mobile Security (Android Focus)
 * API Security Testing (REST / GraphQL)
-* IDOR / XSS / SQLi / Auth Bypass
+* Reverse Engineering Basics
+* Exploit Research & Payload Design
+* Security Automation (Python / Bash)
 * Recon & Attack Surface Mapping
-* Automation Scripting (Python / Bash)
 
 ---
 
-## 🚀 PROJECTS // OPERATIONS
-
-| 🧠 Project                  | ⚔️ Description                           | 🔗 Status |
-| --------------------------- | ---------------------------------------- | --------- |
-| **Red Team OS Dashboard**   | Full attack lifecycle management system  | 🟢 Active |
-| **Pentest Workflow Engine** | Automated methodology for web pentesting | 🟢 Active |
-| **Cyber Awareness Bot**     | Telegram bot for security awareness      | 🟡 Beta   |
-| **Security Tools Kit**      | Custom recon & exploitation scripts      | 🟢 Active |
-
----
-
-## 📊 GITHUB INTELLIGENCE
+# 🧰 ARSENAL
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,git,docker,androidstudio,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🛰️ CURRENT FOCUS
+# 📊 LIVE CYBER INTELLIGENCE
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 ACTIVITY GRAPH // LIVE HACKER TRACK
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlMansorisec&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🛰️ LATEST VULNERABILITIES FOUND
 
 ```txt
-→ Advanced Web Exploitation
-→ Bug Bounty Hunting (Real Targets)
-→ Red Team Automation Tools
-→ Exploit Research & Payload Engineering
-→ Building Offensive Security Frameworks
+→ Web App Security Research
+→ API Authorization Flaws (IDOR / BOLA)
+→ Authentication Bypass Cases
+→ Mobile App Security Analysis (Android)
+→ Business Logic Vulnerabilities
 ```
+
+📌 *Note: Replace this section with your real bug bounty reports later.*
 
 ---
 
-## 📡 CONNECT WITH ME
+# 🏆 HACKER BADGES
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF1E1E?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+
+<img src="https://www.hackthebox.com/badge/image/0" alt="HackTheBox" />
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/your-username.png" alt="TryHackMe" />
+
+</p>
+
+---
+
+# 🚀 PROJECTS // BLACK OPS
+
+| Project                   | Description                       | Status    |
+| ------------------------- | --------------------------------- | --------- |
+| Red Team Dashboard        | Security operations control panel | 🟢 Active |
+| Pentest Automation Engine | Automated web testing framework   | 🟢 Active |
+| Mobile Security Toolkit   | Android testing utilities         | 🟡 Beta   |
+| Bug Bounty Recon Suite    | Recon + exploitation tools        | 🟢 Active |
+
+---
+
+# 📡 CONNECT // SECURE CHANNELS
+
+<p align="center">
+
+<a href="https://github.com/AliAlMansorisec">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-### 🛡️ “Hacking is not crime — it’s curiosity with discipline.”
+## 💀 “The quieter you become, the more you understand.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1E1E&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
 
 </div>
 ```
-
----
