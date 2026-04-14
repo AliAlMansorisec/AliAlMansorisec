@@ -1,4 +1,38 @@
 ---
+
+<div align="center">
+
+<!-- 🛰️ CYBER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
+
+<br>
+
+<!-- 🧠 PROFILE CARD -->
+ ```text
+<pre>
+ 
+🛡️ Name  : Ali Al-Mansori  
+🎯 Role  : Security Researcher / Offensive Security Analyst  
+⚡ Focus : Web • Android • API Security • Bug Bounty  
+
+🧠 About : Cybersecurity researcher specializing in web and mobile penetration testing.  
+          Focused on vulnerability discovery, system analysis, and security automation development.
+</pre>
+```
+<br>
+
+<!-- 💀 BADGES -->
+<p align="center">
+
+<img src="https://img.shields.io/badge/Web%20Pentesting-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20Security-black?style=for-the-badge&logo=android"/>
+<img src="https://img.shields.io/badge/API%20Security-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-black?style=for-the-badge&logo=bugcrowd"/>
+<img src="https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=python"/>
+
+</p>
+
+</div>
 <div align="center">
 
 <!-- 🛰️ NAME BANNER -->
@@ -31,22 +65,17 @@
 
 
 ```txt
-🛡️ Name  : Ali Al-Mansori
-
-🧠 About :
-I am a cybersecurity researcher specializing in web and mobile penetration testing.  
-I focus on vulnerability discovery, system analysis, and building automation security tools.
-
-🎯 Focus : Web • Android • API Security • Bug Bounty
-
+Name        : Ali Al-Mansori
+Role        : Security Researcher / Offensive Security Analyst
+Focus       : Web • Android • API Security • Bug Bounty
+Mission     : Discover vulnerabilities before attackers do
+About       : I am a cybersecurity researcher specializing in web and mobile penetration testing.
 ```
 ---
 
 # Portfolio
 
-
-أنا باحث في الأمن السيبراني متخصص في **اختبار اختراق الويب والموبايل**
-أركز على اكتشاف الثغرات، تحليل الأنظمة، وبناء أدوات تساعد في الأتمتة الأمنية.
+.
 
 ---
 
