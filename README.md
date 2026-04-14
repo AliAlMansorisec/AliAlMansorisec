@@ -100,7 +100,7 @@ Environment  : Linux / Bash
 </a>
 <br><br>
 <a href="https://x.com/AliAlMansoriSec">
-<img src="https://img.shields.io/badge/X%50(Twitter)?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X%50(Twitter)-Security%50Updates-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 <br><br>
 <a href="https://cyber-thought.vercel.app/ar">
