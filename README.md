@@ -1,35 +1,3 @@
-
-<div align="center">
-
-<!-- 🛰️ CYBER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
-
-<br>
-
-<!-- 🧠 PROFILE CARD -->
-<pre>
-🛡️ Name  : Ali Al-Mansori  
-🎯 Role  : Security Researcher / Offensive Security Analyst  
-⚡ Focus : Web • Android • API Security • Bug Bounty  
-
-🧠 About : Cybersecurity researcher specializing in web and mobile penetration testing.  
-          Focused on vulnerability discovery, system analysis, and security automation development.
-</pre>
-
-<br>
-
-<!-- 💀 BADGES -->
-<p align="center">
-
-<img src="https://img.shields.io/badge/Web%20Pentesting-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Android%20Security-black?style=for-the-badge&logo=android"/>
-<img src="https://img.shields.io/badge/API%20Security-darkred?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-black?style=for-the-badge&logo=bugcrowd"/>
-<img src="https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=python"/>
-
-</p>
-
-</div>
 <div align="center">
 
 <!-- 🛰️ NAME BANNER -->
@@ -58,21 +26,29 @@
 
 ---
 
-## 🌐 ABOUT Me
+# 👤 About Me
 
 
 ```txt
 Name        : Ali Al-Mansori
 Role        : Security Researcher / Offensive Security Analyst
 Focus       : Web • Android • API Security • Bug Bounty
-Mission     : Discover vulnerabilities before attackers do
 About       : I am a cybersecurity researcher specializing in web and mobile penetration testing.
 ```
 ---
 
-# Portfolio
+## 🌐 Portfolio
 
-.
+### 🛡️ Ali Al-Mansori — Personal Profile
+Personal cybersecurity portfolio showcasing my profile, projects, and security work.  
+🔗 Website: https://your-personal-site.com
+
+
+### 🧠 Cyber Thought Platform (الفكر السيبراني)
+Educational platform providing cybersecurity tutorials, blog content, and services.  
+🔗 Website: https://cyber-thought.vercel.app/ar
+
+
 
 ---
 
