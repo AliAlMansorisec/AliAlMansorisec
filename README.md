@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- 🛰️ NAME BANNER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
 
 <p align="center">
@@ -14,30 +13,14 @@
 
 </p>
 
-<br>
-
-<!-- 📊 DIVIDER -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer" />
-
 </div>
 
 <div align="center">
 
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=F81B1B&center=true&vCenter=true&width=600&lines=Web+Penetration+Tester;Bug+Bounty+Hunter;Cyber+Security+Researcher;Automation+Script+Writer" alt="Typing SVG" />
 </p>
-
-<br>
-
-<!-- 🔴 SECOND DIVIDER -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=2&section=footer" />
-
-</div>
->
 
 
 ---
