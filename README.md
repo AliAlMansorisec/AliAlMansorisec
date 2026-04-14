@@ -18,9 +18,9 @@
 <div align="center">
 
 
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=WEB+PENTESTER;BUG+BOUNTY+HUNTER;SECURITY+DEVELOPER" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F81B1B&center=true&vCenter=true&width=500&lines=Web+Penetration+Tester;Bug+Bounty+Hunter;Cyber+Security+Researcher;Automation+Script+Writer" alt="Typing SVG" />
+</p>
 
 </div>
 
