@@ -58,12 +58,12 @@ Philosophy  : "If you can’t measure it, you can’t secure it."
 ## 📊 GITHUB INTELLIGENCE
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
