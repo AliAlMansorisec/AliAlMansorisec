@@ -1,145 +1,155 @@
 <div align="center">
 
-<!-- ⚡ ULTRA BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=45&fontColor=FF0000&animation=fadeIn&fontAlignY=35" />
+<!-- 🛰️ NAME BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a0a,60:ff0000,100:000000&height=220&section=header&text=ALI%20AL-MANSORI&fontSize=42&fontColor=FF0000&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=BLACK+HAT+STYLE+RESEARCHER;WEB+%26+MOBILE+PENTESTER;BUG+BOUNTY+HUNTER;API+%26+EXPLOIT+RESEARCHER;BREAKING+SYSTEMS+TO+BUILD+STRONGER+ONES" />
-
----
-
-## ☠️ “I don’t hack systems… I understand them deeply.”
+<!-- ⚡ ROLE BADGES -->
+<img src="https://img.shields.io/badge/Web%20Pentester-FF0000?style=for-the-badge&logo=bugatti&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Security-111111?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Bug%20Bounty%20Hunter-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Red%20Team-1a0000?style=for-the-badge&logo=target&logoColor=FF0000"/>
 
 </div>
 
 ---
 
-# 🧬 PROFILE // OPERATOR DATA
+# 🧠 ABOUT // PROFILE
 
 ```txt
-Alias       : Red Team Operative
-Focus       : Web / Mobile / API Security
-Specialty   : Vulnerability Research & Exploit Dev
-Level       : Bug Bounty Hunter | Security Researcher
-Philosophy  : "Know the system better than its creator"
+Name        : Ali Al-Mansori
+Role        : Security Researcher / Offensive Security Analyst
+Focus       : Web • Android • API Security • Bug Bounty
+Style       : Minimal • Precise • Analytical
+Mission     : Discover vulnerabilities before attackers do
 ````
 
----
-
-# 🧠 CORE SKILLS
-
-* Web Application Pentesting
-* Mobile Security (Android Focus)
-* API Security Testing (REST / GraphQL)
-* Reverse Engineering Basics
-* Exploit Research & Payload Design
-* Security Automation (Python / Bash)
-* Recon & Attack Surface Mapping
+أنا باحث في الأمن السيبراني متخصص في **اختبار اختراق الويب والموبايل**
+أركز على اكتشاف الثغرات، تحليل الأنظمة، وبناء أدوات تساعد في الأتمتة الأمنية.
 
 ---
 
-# 🧰 ARSENAL
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,git,docker,androidstudio,vscode&theme=dark" />
-</p>
-
----
-
-# 📊 LIVE CYBER INTELLIGENCE
+# ⚔️ CORE EXPERTISE
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 ACTIVITY GRAPH // LIVE HACKER TRACK
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAlMansorisec&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-# 🛰️ LATEST VULNERABILITIES FOUND
-
-```txt
-→ Web App Security Research
-→ API Authorization Flaws (IDOR / BOLA)
-→ Authentication Bypass Cases
-→ Mobile App Security Analysis (Android)
-→ Business Logic Vulnerabilities
-```
-
-📌 *Note: Replace this section with your real bug bounty reports later.*
-
----
-
-# 🏆 HACKER BADGES
-
-<p align="center">
-
-<img src="https://www.hackthebox.com/badge/image/0" alt="HackTheBox" />
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/your-username.png" alt="TryHackMe" />
+<img src="https://img.shields.io/badge/Web%20Pentesting-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Android%20Security-black?style=flat-square&logo=android"/>
+<img src="https://img.shields.io/badge/API%20Security-darkred?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bug%20Bounty-black?style=flat-square&logo=bugcrowd"/>
+<img src="https://img.shields.io/badge/Automation-grey?style=flat-square&logo=python"/>
 
 </p>
 
 ---
 
-# 🚀 PROJECTS // BLACK OPS
+# 🧰 TECH STACK
 
-| Project                   | Description                       | Status    |
-| ------------------------- | --------------------------------- | --------- |
-| Red Team Dashboard        | Security operations control panel | 🟢 Active |
-| Pentest Automation Engine | Automated web testing framework   | 🟢 Active |
-| Mobile Security Toolkit   | Android testing utilities         | 🟡 Beta   |
-| Bug Bounty Recon Suite    | Recon + exploitation tools        | 🟢 Active |
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,androidstudio,vscode&theme=dark" />
+</p>
 
+---
 
-## 🚀 Projects
+# 🚀 PROJECTS // OPERATIONS
 
-### 🧬 Web Pentest Methodology
-🔗 https://github.com/AliAlMansorisec/Web-Pentest-Methodology  
-A structured workflow for professional web penetration testing:
+## 🧬 Web Pentest Methodology
+
+<p align="center">
+<a href="https://github.com/AliAlMansorisec/Web-Pentest-Methodology">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AliAlMansorisec&repo=Web-Pentest-Methodology&theme=tokyonight"/>
+</a>
+</p>
+
+📌 Structured penetration testing workflow
 Recon → Enumeration → Exploitation → Reporting
 
 ---
 
-## 🛰️ Connect With Me
+## ⚙️ Security Automation Tools
 
-- 🐙 GitHub: https://github.com/AliAlMansorisec  
-- 🐦 X (Twitter): https://x.com/AliAlMansoriSec  
-- 🌐 Website: https://cyber-thought.vercel.app/ar  
-- 📧 Email: your-email@example.com  
+<p align="center">
+<img src="https://img.shields.io/badge/Recon%20Automation-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subdomain%20Enum-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability%20Detection-1a1a1a?style=for-the-badge"/>
+</p>
+
+---
+
+## 🧠 Cyber Thought Platform
+
+<p align="center">
+
+<a href="https://cyber-thought.vercel.app/ar">
+<img src="https://img.shields.io/badge/Cyber%20Thought%20Platform-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+📌 Security awareness + offensive research + learning hub
+
+---
+
+# 🌐 CYBER FOOTPRINT
 
 <p align="center">
 
 <a href="https://github.com/AliAlMansorisec">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://x.com/AliAlMansoriSec">
+<img src="https://img.shields.io/badge/X%20(Twitter)-FF0000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://cyber-thought.vercel.app/ar">
+<img src="https://img.shields.io/badge/Portfolio%20Website-1a1a1a?style=for-the-badge&logo=firefox"/>
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/CONTACT-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<div align="center">
+# 📊 LIVE CYBER METRICS
 
-## 💀 “The quieter you become, the more you understand.”
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF0000&height=120&section=footer"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AliAlMansorisec&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</div>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliAlMansorisec&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAlMansorisec&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🛰️ SECURITY MISSION
+
+```txt
+→ Web Application Exploitation
+→ Android Reverse Engineering
+→ API Security Analysis
+→ Bug Bounty Programs
+→ Vulnerability Research
+→ Security Automation Systems
+```
+
+---
+
+# 💀 CYBER PHILOSOPHY
+
+> “Understand the system… before you attempt to break it.”
+
+> Precision > Noise
+> Depth > Speed
+> Intelligence > Action
+
+---
+
 ```
