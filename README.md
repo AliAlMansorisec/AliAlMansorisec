@@ -71,7 +71,7 @@ Mission     : Discover vulnerabilities before attackers do
 ---
 # 📊 GitHub Stats:
 
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-almansoori&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C" alt="Ali's GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-almansoori&theme=dark&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="48%"/>
 </p>
@@ -82,7 +82,7 @@ Mission     : Discover vulnerabilities before attackers do
 ### Professional Contact & Cyber Presence
 
 
-<p align="right">
+<p align="center">
   <a href="https://github.com/ali-almansoori">
     <img src="https://img.shields.io/badge/GitHub-ali--almansoori-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
