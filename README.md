@@ -7,7 +7,15 @@
 
 ---
 
-## ☠️ “I don’t hack systems… I understand them deeply.”
+# 🛡️ ALI AL-MANSORI | SECURITY RESEARCHER 🛡️
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=28&pause=1000&color=FF1E1E&center=true&vCenter=true&width=750&lines=Web+Pentester;Mobile+Security+Researcher;Bug+Bounty+Hunter;API+Security+Specialist;Breaking+Systems+to+Strengthen+Them" />
+
+---
+
+### ⚔️ Offensive Security | Bug Bounty | Mobile & Web Pentesting
+
+</div>
 
 </div>
 
