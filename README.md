@@ -80,8 +80,8 @@ Educational platform providing cybersecurity tutorials, blog content, and servic
 
 | #️⃣    | 🧬 Link Project          | 📌 Description   | ⚙️ Type  |        |
 | ------ | ------------------------------ | ----------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------- |
-| **01** | 🧭 [**Web Pentest Methodology**](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)| Professional workflow for testing web application security from Recon to Reporting              | 🛡️ Web Security Framework  |  |
-| **02** | ⚙️ [**WPT-Workflow-Manager**](https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts)    | Automation tool for managing pentest workflow, project structure, and reconnaissance operations | 🤖 Security Automation Tool ||
+| **01** | 🧭 [*Web Pentest Methodology*](https://github.com/AliAlMansorisec/Web-Pentest-Methodology)| Professional workflow for testing web application security from Recon to Reporting              | 🛡️ Web Security Framework  |  |
+| **02** | ⚙️ [*WPT-Workflow-Manager*](https://github.com/AliAlMansorisec/Web-Pentest-Methodology/tree/main/Scripts)    | Automation tool for managing pentest workflow, project structure, and reconnaissance operations | 🤖 Security Automation Tool ||
 
 ---
 ## 📊 GitHub Stats:
