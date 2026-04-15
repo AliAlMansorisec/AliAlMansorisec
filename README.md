@@ -47,7 +47,7 @@ Personal cybersecurity portfolio showcasing my profile, projects, and security w
 ```
 🔗 Website: https://your-personal-site.com
 
-----
+
 
 ### 🧠 Cyber Thought Platform (الفكر السيبراني)
 
