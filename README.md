@@ -57,55 +57,6 @@ Educational platform providing cybersecurity tutorials, blog content, and servic
 🔗 Website: https://cyber-thought.vercel.app/ar
 
 
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="50%">
-
-<h3>🛡️ Ali Al-Mansori — Personal Profile</h3>
-
-<a href="https://your-personal-site.com">
-  <img src="https://api.microlink.io/?url=https://your-personal-site.com&embed=screenshot.url" 
-       alt="Ali Al-Mansori Website Preview" 
-       width="100%" />
-</a>
-
-<br><br>
-
-Personal cybersecurity portfolio showcasing my profile, projects, and security work.
-
-<br><br>
-
-🔗 <a href="https://your-personal-site.com">Visit Website</a>
-
-</td>
-
-<td align="center" width="50%">
-
-<h3>🧠 Cyber Thought Platform (الفكر السيبراني)</h3>
-
-<a href="https://cyber-thought.vercel.app/ar">
-  <img src="https://api.microlink.io/?url=https://cyber-thought.vercel.app/ar&embed=screenshot.url" 
-       alt="Cyber Thought Platform Preview" 
-       width="100%" />
-</a>
-
-<br><br>
-
-Educational platform providing cybersecurity tutorials, blog content, and services.
-
-<br><br>
-
-🔗 <a href="https://cyber-thought.vercel.app/ar">Visit Platform</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
 ---
 
 
