@@ -26,7 +26,7 @@
 
 ---
 
-# 👤 About Me
+## 👤 About Me
 
 
 ```txt
@@ -38,9 +38,9 @@ About       : I am a cybersecurity researcher specializing in web and mobile pen
 ---
 
 
-## 🌐 Portfolio
+## 🗃️ Portfolio
 
-### 🛡️ Ali Al-Mansori — Personal Profile
+### 🌐 Ali Al-Mansori — Personal Profile
 
 ```text
 Personal cybersecurity portfolio showcasing my profile, projects, and security work.
@@ -49,7 +49,7 @@ Personal cybersecurity portfolio showcasing my profile, projects, and security w
 
 
 
-### 🧠 Cyber Thought Platform (الفكر السيبراني)
+### 🌐 Cyber Thought Platform (الفكر السيبراني)
 
 ```text
 Educational platform providing cybersecurity tutorials, blog content, and services.  
